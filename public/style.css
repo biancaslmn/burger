@@ -1,0 +1,23 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+	background-color: rgb(132, 172, 185);
+	font-size: 20px;
+	line-height: 1.5;
+	color: white
+}
+
+img{
+	border-radius: 50%;
+}
+
+h1{
+	font-size: 50px;
+}
+
+.container {
+	margin-top: 20px
+}
+
+.devour-button {
+	display: inline-block;
+}
