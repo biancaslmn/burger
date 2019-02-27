@@ -1,3 +1,3 @@
 # burger
 
-<img src="https://github.com/biancaslmn/burger/public/images/burgerFront.png">
+<img src="https://github.com/biancaslmn/burger/blob/master/public/images/burgerFront.png">
